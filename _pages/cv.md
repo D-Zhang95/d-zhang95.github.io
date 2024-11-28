@@ -12,10 +12,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astronomy, University of Science and Technology of China, 2025 (expected)
-* Jointly Trained Ph.D in Cosmology, Kavli Institute for the Physics and Mathematics of the Universe, University of Tokyo
-* M.S. in Astronomy, University of Science and Technology of China, 2021
-* B.S. in Science, Anhui University, 2018
+* Ph.D in Astronomy, University of Science and Technology of China, 2021 - 2025 (expected)
+* Jointly Trained Ph.D in Cosmology, Kavli Institute for the Physics and Mathematics of the Universe, University of Tokyo, 2023 - 2024
+* M.S. in Astronomy, University of Science and Technology of China, 2018 - 2021
+* B.S. in Science, Anhui University, 2014 - 2018
 
 Selected Awards and Honors
 ======
