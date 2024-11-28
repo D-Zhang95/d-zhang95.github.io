@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Astronomy, University of Science and Technology of China, 2025 (expected)
@@ -19,7 +20,6 @@ Education
 Selected Awards and Honors
 ======
 * 2023 - 2024: International Cooperative Program for Innovative Talents
-
 * 2022 - 2023: Doctoral First-class academic scholarship in USTC
 
 Conferences and Seminars
