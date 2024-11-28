@@ -54,6 +54,6 @@ Conferences and Seminars
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Please find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="https://inspirehep.net/authors/2789730?ui-citation-summary=true">inspire</a> profile.</div>
+{% endif %}
