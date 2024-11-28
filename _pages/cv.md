@@ -55,5 +55,5 @@ Conferences and Seminars
 Publications
 ======
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Please find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="https://inspirehep.net/authors/2789730?ui-citation-summary=true">inspire</a> profile.</div>
+  <div class="wordwrap">Please find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="https://inspirehep.net/authors/2789730?ui-citation-summary=true">Inspire</a> profile.</div>
 {% endif %}
