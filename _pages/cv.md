@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, University of Science and Technology of China, 2025 (expected)
+* Jointly Trained Ph.D in Cosmology, Kavli Institute for the Physics and Mathematics of the Universe, University of Tokyo
+* M.S. in Astronomy, University of Science and Technology of China, 2021
+* B.S. in Science, Anhui University, 2018
 
-Work experience
+Selected Awards and Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - 2024: International Cooperative Program for Innovative Talents
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2023: Doctoral First-class academic scholarship in USTC
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Conferences and Seminars
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct. 2024: Oral Presentation
+  * Kashiwanoha Dark Matter and Cosmology Symposium, Kavli IPMU, Kashiwa, Japan
+  * “Constraining Ultralight ALP Dark Matter in Light of Cosmic Birefringence”
+
+* Oct. 2024: Poster Presentation
+  * COSMO'24, Kyoto University, Kyoto, Japan
+  * “Constraining Ultralight ALP Dark Matter in Light of Cosmic Birefringence”
+
+* Sep. 2024: Poster Presentation
+  * The Fundamentals School, University of Split, Split, Croatia
+  * “Constraining Ultralight ALP Dark Matter in Light of Cosmic Birefringence”
+
+* Feb. 2024: Oral Presentation
+  * Gravity and Cosmology 2024, Yukawa Institute for Theoretical Physics, Kyoto, Japan
+  * “Narrow-band parametrization for the stochastic gravitational wave background”
+
+* Feb. 2024: Oral Presentation
+  * Third Mini- workshop on the Early Universe, Okinawa, Japan
+  * “Narrow-band parametrization for the stochastic gravitational wave background”
+ 
+* Dec. 2022: Oral Presentation
+  * 2022 Physics Five Universities the National Top, Online, China
+  * “Future Prospects on Constraining Neutrino Cosmology with the Ali CMB Polarization Telescope”
+
+* Dec. 2022: Oral Presentation
+  * The 12th Annual Academic Conference, University of Science and Technology of China, Hefei, China
+  * “Future Prospects on Constraining Neutrino Cosmology with the Ali CMB Polarization Telescope”
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
