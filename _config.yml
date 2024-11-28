@@ -21,7 +21,7 @@ repository               : "D-Zhang95/d-zhang95.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.png"
   name             : "Dongdong Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Cosmologist<br>"
