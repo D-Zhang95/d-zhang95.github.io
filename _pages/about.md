@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Theoretical Cosmologist and a PhD Candidate at the Department of Astronomy, University of Science and Technology of China. My main research interests lie in the fields of dark matter, dark energy, and quantum effects in cosmological systems.
+I am a Theoretical Cosmologist at Hefei Institute of Technology, China. My main research interests lie in the fields of dark matter, dark energy, and quantum effects in cosmological systems. I am particularly interested in using quantum information methods as a constructive methodology for fundamental physics.
 
 Beyond Work
 ======
